@@ -27,4 +27,4 @@ I am passionate about web design and for over 5 years I have dedicated myself to
 
 | Hello, world. | Social networking.   |
 | ------        |---------             |
-| <img align="center" width="150" height="150" src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif"> |  Projects on <a href="https://codepen.io/antonio-eli-the-vuer"> Codepen</a> 🏓.<br>Sharing updates on <a href="https://www.linkedin.com/
+| <img align="center" width="150" height="150" src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif"> |  Projects on <a href="https://codepen.io/antonio-eli-the-vuer"> Codepen</a> 🏓.<br>Sharing updates on <a href="https://www.linkedin.com/in/eliceo-romero-antonio/">LinkedIn</a> 💼.  |
